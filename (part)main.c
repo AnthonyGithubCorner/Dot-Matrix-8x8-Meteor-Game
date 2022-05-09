@@ -1,4 +1,4 @@
-//Was written for ECE 198 final project, all code below was fully written by Anthony Lazar and ...
+//Was written for ECE 198 final project, all code below was fully written by Anthony Lazar and Graeme Seelemann
 //Any code given was taken out
 #ifdef MATRIX_GAME
     
