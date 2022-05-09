@@ -1,4 +1,5 @@
-//Was written for ECE 198, all code below was fully written by Anthony Lazar and ...
+//Was written for ECE 198 final project, all code below was fully written by Anthony Lazar and ...
+//Any code given was taken out
 #ifdef MATRIX_GAME
     
     max_init(); //Initializes the MAX7219 Dot Matrix display.
